@@ -1,0 +1,15 @@
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\bin\Debug\net6.0\Visma internship 2022.exe
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\bin\Debug\net6.0\Visma internship 2022.deps.json
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\bin\Debug\net6.0\Visma internship 2022.runtimeconfig.json
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\bin\Debug\net6.0\Visma internship 2022.dll
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\bin\Debug\net6.0\Visma internship 2022.pdb
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.csproj.AssemblyReference.cache
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.AssemblyInfoInputs.cache
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.AssemblyInfo.cs
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.csproj.CoreCompileInputs.cache
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.dll
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\refint\Visma internship 2022.dll
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.pdb
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\Visma internship 2022.genruntimeconfig.cache
+C:\Projects\Visma internship 2022\Visma internship 2022\Visma internship 2022\obj\Debug\net6.0\ref\Visma internship 2022.dll
