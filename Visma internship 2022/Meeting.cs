@@ -1,4 +1,6 @@
 ﻿using System.Text.Json.Serialization;
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("MeetingsUnitTests")]
 namespace Visma_internship_2022
 {
     internal class Meeting
@@ -46,7 +48,7 @@ namespace Visma_internship_2022
                 $"Type: {Type} \n" +
                 $"Starting date: {StartDate:yyyy-MM-dd} \n" +
                 $"Ending date: {EndDate:yyyy-MM-dd} \n" +
-                $"Number of attendees: { Attendees.Count } \n" +
+                $"Number of attendees: {Attendees.Count} \n" +
                 "-----------------------------------------";
         }
     }
